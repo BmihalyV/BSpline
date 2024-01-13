@@ -1,0 +1,70 @@
+D:\Troll\BevGraf\2020_21_BevGraf_CO\__AlapRajzolo\__AlapRajzolo\bin\Debug\__AlapRajzolo.exe.config
+D:\Troll\BevGraf\2020_21_BevGraf_CO\__AlapRajzolo\__AlapRajzolo\bin\Debug\__AlapRajzolo.exe
+D:\Troll\BevGraf\2020_21_BevGraf_CO\__AlapRajzolo\__AlapRajzolo\bin\Debug\__AlapRajzolo.pdb
+D:\Troll\BevGraf\2020_21_BevGraf_CO\__AlapRajzolo\__AlapRajzolo\obj\Debug\__AlapRajzolo.csprojResolveAssemblyReference.cache
+D:\Troll\BevGraf\2020_21_BevGraf_CO\__AlapRajzolo\__AlapRajzolo\obj\Debug\__AlapRajzolo.Form1.resources
+D:\Troll\BevGraf\2020_21_BevGraf_CO\__AlapRajzolo\__AlapRajzolo\obj\Debug\__AlapRajzolo.Properties.Resources.resources
+D:\Troll\BevGraf\2020_21_BevGraf_CO\__AlapRajzolo\__AlapRajzolo\obj\Debug\__AlapRajzolo.csproj.GenerateResource.Cache
+D:\Troll\BevGraf\2020_21_BevGraf_CO\__AlapRajzolo\__AlapRajzolo\obj\Debug\__AlapRajzolo.exe
+D:\Troll\BevGraf\2020_21_BevGraf_CO\__AlapRajzolo\__AlapRajzolo\obj\Debug\__AlapRajzolo.pdb
+f:\EKE\_Tantárgyak\Bevezetés a számítógépi grafikába\2020_21_BevGraf_Nappali_ONLINE\12_BezierN\__AlapRajzolo\bin\Debug\__AlapRajzolo.exe.config
+f:\EKE\_Tantárgyak\Bevezetés a számítógépi grafikába\2020_21_BevGraf_Nappali_ONLINE\12_BezierN\__AlapRajzolo\bin\Debug\__AlapRajzolo.exe
+f:\EKE\_Tantárgyak\Bevezetés a számítógépi grafikába\2020_21_BevGraf_Nappali_ONLINE\12_BezierN\__AlapRajzolo\bin\Debug\__AlapRajzolo.pdb
+f:\EKE\_Tantárgyak\Bevezetés a számítógépi grafikába\2020_21_BevGraf_Nappali_ONLINE\12_BezierN\__AlapRajzolo\obj\Debug\__AlapRajzolo.csprojAssemblyReference.cache
+f:\EKE\_Tantárgyak\Bevezetés a számítógépi grafikába\2020_21_BevGraf_Nappali_ONLINE\12_BezierN\__AlapRajzolo\obj\Debug\__AlapRajzolo.Form1.resources
+f:\EKE\_Tantárgyak\Bevezetés a számítógépi grafikába\2020_21_BevGraf_Nappali_ONLINE\12_BezierN\__AlapRajzolo\obj\Debug\__AlapRajzolo.Properties.Resources.resources
+f:\EKE\_Tantárgyak\Bevezetés a számítógépi grafikába\2020_21_BevGraf_Nappali_ONLINE\12_BezierN\__AlapRajzolo\obj\Debug\__AlapRajzolo.csproj.GenerateResource.cache
+f:\EKE\_Tantárgyak\Bevezetés a számítógépi grafikába\2020_21_BevGraf_Nappali_ONLINE\12_BezierN\__AlapRajzolo\obj\Debug\__AlapRajzolo.exe
+f:\EKE\_Tantárgyak\Bevezetés a számítógépi grafikába\2020_21_BevGraf_Nappali_ONLINE\12_BezierN\__AlapRajzolo\obj\Debug\__AlapRajzolo.pdb
+f:\EKE\_Tantárgyak\Bevezetés a számítógépi grafikába\2020_21_BevGraf_Nappali_ONLINE\12_BezierN_BSpline\__AlapRajzolo\bin\Debug\__AlapRajzolo.exe.config
+f:\EKE\_Tantárgyak\Bevezetés a számítógépi grafikába\2020_21_BevGraf_Nappali_ONLINE\12_BezierN_BSpline\__AlapRajzolo\bin\Debug\__AlapRajzolo.exe
+f:\EKE\_Tantárgyak\Bevezetés a számítógépi grafikába\2020_21_BevGraf_Nappali_ONLINE\12_BezierN_BSpline\__AlapRajzolo\bin\Debug\__AlapRajzolo.pdb
+f:\EKE\_Tantárgyak\Bevezetés a számítógépi grafikába\2020_21_BevGraf_Nappali_ONLINE\12_BezierN_BSpline\__AlapRajzolo\obj\Debug\__AlapRajzolo.csprojAssemblyReference.cache
+f:\EKE\_Tantárgyak\Bevezetés a számítógépi grafikába\2020_21_BevGraf_Nappali_ONLINE\12_BezierN_BSpline\__AlapRajzolo\obj\Debug\__AlapRajzolo.Form1.resources
+f:\EKE\_Tantárgyak\Bevezetés a számítógépi grafikába\2020_21_BevGraf_Nappali_ONLINE\12_BezierN_BSpline\__AlapRajzolo\obj\Debug\__AlapRajzolo.Properties.Resources.resources
+f:\EKE\_Tantárgyak\Bevezetés a számítógépi grafikába\2020_21_BevGraf_Nappali_ONLINE\12_BezierN_BSpline\__AlapRajzolo\obj\Debug\__AlapRajzolo.csproj.GenerateResource.cache
+f:\EKE\_Tantárgyak\Bevezetés a számítógépi grafikába\2020_21_BevGraf_Nappali_ONLINE\12_BezierN_BSpline\__AlapRajzolo\obj\Debug\__AlapRajzolo.exe
+f:\EKE\_Tantárgyak\Bevezetés a számítógépi grafikába\2020_21_BevGraf_Nappali_ONLINE\12_BezierN_BSpline\__AlapRajzolo\obj\Debug\__AlapRajzolo.pdb
+C:\Users\Bozó Tamás Dániel\Desktop\Grafika_Anyagok\12_BezierN_BSpline\__AlapRajzolo\bin\Debug\__AlapRajzolo.exe.config
+C:\Users\Bozó Tamás Dániel\Desktop\Grafika_Anyagok\12_BezierN_BSpline\__AlapRajzolo\bin\Debug\__AlapRajzolo.exe
+C:\Users\Bozó Tamás Dániel\Desktop\Grafika_Anyagok\12_BezierN_BSpline\__AlapRajzolo\bin\Debug\__AlapRajzolo.pdb
+C:\Users\Bozó Tamás Dániel\Desktop\Grafika_Anyagok\12_BezierN_BSpline\__AlapRajzolo\obj\Debug\__AlapRajzolo.csprojAssemblyReference.cache
+C:\Users\Bozó Tamás Dániel\Desktop\Grafika_Anyagok\12_BezierN_BSpline\__AlapRajzolo\obj\Debug\__AlapRajzolo.Form1.resources
+C:\Users\Bozó Tamás Dániel\Desktop\Grafika_Anyagok\12_BezierN_BSpline\__AlapRajzolo\obj\Debug\__AlapRajzolo.Properties.Resources.resources
+C:\Users\Bozó Tamás Dániel\Desktop\Grafika_Anyagok\12_BezierN_BSpline\__AlapRajzolo\obj\Debug\__AlapRajzolo.csproj.GenerateResource.cache
+C:\Users\Bozó Tamás Dániel\Desktop\Grafika_Anyagok\12_BezierN_BSpline\__AlapRajzolo\obj\Debug\__AlapRajzolo.csproj.CoreCompileInputs.cache
+C:\Users\Bozó Tamás Dániel\Desktop\Grafika_Anyagok\12_BezierN_BSpline\__AlapRajzolo\obj\Debug\__AlapRajzolo.exe
+C:\Users\Bozó Tamás Dániel\Desktop\Grafika_Anyagok\12_BezierN_BSpline\__AlapRajzolo\obj\Debug\__AlapRajzolo.pdb
+C:\Users\Balogh Mihály Viktor\source\repos\SokGrafika\Anyagkezelés\BSpline_Unlimited\__AlapRajzolo\bin\Debug\__AlapRajzolo.exe.config
+C:\Users\Balogh Mihály Viktor\source\repos\SokGrafika\Anyagkezelés\BSpline_Unlimited\__AlapRajzolo\bin\Debug\__AlapRajzolo.exe
+C:\Users\Balogh Mihály Viktor\source\repos\SokGrafika\Anyagkezelés\BSpline_Unlimited\__AlapRajzolo\bin\Debug\__AlapRajzolo.pdb
+C:\Users\Balogh Mihály Viktor\source\repos\SokGrafika\Anyagkezelés\BSpline_Unlimited\__AlapRajzolo\obj\Debug\__AlapRajzolo.csproj.AssemblyReference.cache
+C:\Users\Balogh Mihály Viktor\source\repos\SokGrafika\Anyagkezelés\BSpline_Unlimited\__AlapRajzolo\obj\Debug\__AlapRajzolo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Balogh Mihály Viktor\source\repos\SokGrafika\Anyagkezelés\BSpline_Unlimited\__AlapRajzolo\obj\Debug\__AlapRajzolo.Form1.resources
+C:\Users\Balogh Mihály Viktor\source\repos\SokGrafika\Anyagkezelés\BSpline_Unlimited\__AlapRajzolo\obj\Debug\__AlapRajzolo.Properties.Resources.resources
+C:\Users\Balogh Mihály Viktor\source\repos\SokGrafika\Anyagkezelés\BSpline_Unlimited\__AlapRajzolo\obj\Debug\__AlapRajzolo.csproj.GenerateResource.cache
+C:\Users\Balogh Mihály Viktor\source\repos\SokGrafika\Anyagkezelés\BSpline_Unlimited\__AlapRajzolo\obj\Debug\__AlapRajzolo.csproj.CoreCompileInputs.cache
+C:\Users\Balogh Mihály Viktor\source\repos\SokGrafika\Anyagkezelés\BSpline_Unlimited\__AlapRajzolo\obj\Debug\__AlapRajzolo.exe
+C:\Users\Balogh Mihály Viktor\source\repos\SokGrafika\Anyagkezelés\BSpline_Unlimited\__AlapRajzolo\obj\Debug\__AlapRajzolo.pdb
+C:\Users\Balogh Mihály Viktor\source\repos\SokGrafika\BSpline_Unlimited\__AlapRajzolo\bin\Debug\__AlapRajzolo.exe.config
+C:\Users\Balogh Mihály Viktor\source\repos\SokGrafika\BSpline_Unlimited\__AlapRajzolo\bin\Debug\__AlapRajzolo.exe
+C:\Users\Balogh Mihály Viktor\source\repos\SokGrafika\BSpline_Unlimited\__AlapRajzolo\bin\Debug\__AlapRajzolo.pdb
+C:\Users\Balogh Mihály Viktor\source\repos\SokGrafika\BSpline_Unlimited\__AlapRajzolo\obj\Debug\__AlapRajzolo.csproj.AssemblyReference.cache
+C:\Users\Balogh Mihály Viktor\source\repos\SokGrafika\BSpline_Unlimited\__AlapRajzolo\obj\Debug\__AlapRajzolo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Balogh Mihály Viktor\source\repos\SokGrafika\BSpline_Unlimited\__AlapRajzolo\obj\Debug\__AlapRajzolo.Form1.resources
+C:\Users\Balogh Mihály Viktor\source\repos\SokGrafika\BSpline_Unlimited\__AlapRajzolo\obj\Debug\__AlapRajzolo.Properties.Resources.resources
+C:\Users\Balogh Mihály Viktor\source\repos\SokGrafika\BSpline_Unlimited\__AlapRajzolo\obj\Debug\__AlapRajzolo.csproj.GenerateResource.cache
+C:\Users\Balogh Mihály Viktor\source\repos\SokGrafika\BSpline_Unlimited\__AlapRajzolo\obj\Debug\__AlapRajzolo.csproj.CoreCompileInputs.cache
+C:\Users\Balogh Mihály Viktor\source\repos\SokGrafika\BSpline_Unlimited\__AlapRajzolo\obj\Debug\__AlapRajzolo.exe
+C:\Users\Balogh Mihály Viktor\source\repos\SokGrafika\BSpline_Unlimited\__AlapRajzolo\obj\Debug\__AlapRajzolo.pdb
+C:\Users\Balogh Mihály Viktor\source\repos\SokGrafika\GrafikaZH\BSplineFeladat2\__AlapRajzolo\obj\Debug\__AlapRajzolo.csproj.AssemblyReference.cache
+C:\Users\Balogh Mihály Viktor\source\repos\SokGrafika\GrafikaZH\BSplineFeladat2\__AlapRajzolo\obj\Debug\__AlapRajzolo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Balogh Mihály Viktor\source\repos\SokGrafika\GrafikaZH\BSplineFeladat2\__AlapRajzolo\obj\Debug\__AlapRajzolo.Form1.resources
+C:\Users\Balogh Mihály Viktor\source\repos\SokGrafika\GrafikaZH\BSplineFeladat2\__AlapRajzolo\obj\Debug\__AlapRajzolo.Properties.Resources.resources
+C:\Users\Balogh Mihály Viktor\source\repos\SokGrafika\GrafikaZH\BSplineFeladat2\__AlapRajzolo\obj\Debug\__AlapRajzolo.csproj.GenerateResource.cache
+C:\Users\Balogh Mihály Viktor\source\repos\SokGrafika\GrafikaZH\BSplineFeladat2\__AlapRajzolo\obj\Debug\__AlapRajzolo.csproj.CoreCompileInputs.cache
+C:\Users\Balogh Mihály Viktor\source\repos\SokGrafika\GrafikaZH\BSplineFeladat2\__AlapRajzolo\obj\Debug\__AlapRajzolo.exe
+C:\Users\Balogh Mihály Viktor\source\repos\SokGrafika\GrafikaZH\BSplineFeladat2\__AlapRajzolo\obj\Debug\__AlapRajzolo.pdb
+C:\Users\Balogh Mihály Viktor\source\repos\SokGrafika\GrafikaZH\BSplineFeladat2\__AlapRajzolo\bin\Debug\__AlapRajzolo.exe.config
+C:\Users\Balogh Mihály Viktor\source\repos\SokGrafika\GrafikaZH\BSplineFeladat2\__AlapRajzolo\bin\Debug\__AlapRajzolo.exe
+C:\Users\Balogh Mihály Viktor\source\repos\SokGrafika\GrafikaZH\BSplineFeladat2\__AlapRajzolo\bin\Debug\__AlapRajzolo.pdb
